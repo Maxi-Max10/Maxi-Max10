@@ -7,7 +7,7 @@ Tecnicatura Superior en Desarrollo de Software
 Programación Web Full Stack
 
 ##  Contacto
-<a  href="https://www.instagram.com/maximiliano.alderete1/"> <img src="https://img.shields.io/badge/@Instagram_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logo Color=white"></a>
+<img src="https://img.shields.io/badge/GMAIL-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="maximilianoalderete017@gmail.com"> <a  href="https://www.instagram.com/maximiliano.alderete1/"><img src="https://img.shields.io/badge/INSTAGRAM_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <!--
 **Maxi-Max10/Maxi-Max10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
