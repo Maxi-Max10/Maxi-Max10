@@ -2,7 +2,12 @@
 ## Hola, soy Maximiliano <img alt = "GIF" src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 30 />
 
 -----
-Estudiante  en Desarrollo de Software
+Estudiante 
+Tecnicatura Superior en Desarrollo de Software
+Programación Web Full Stack
+
+##  Contacto
+<a  href="https://www.instagram.com/maximiliano.alderete1/"> <img src="https://img.shields.io/badge/@sharannyo_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logo Color=white"></a>
 
 <!--
 **Maxi-Max10/Maxi-Max10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
