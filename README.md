@@ -1,5 +1,10 @@
 
-## Hola, soy Maximiliano <img alt = "GIF" src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 30 />
+## Maximiliano Alderete <img src="https://emoji.discord.st/emojis/a8e0e4a2-2fd9-4654-a677-8e0b02999195.gif" width = 25>
+
+<!--
+<img alt = "GIF" src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 30 />
+https://www.gifcen.com/wp-content/uploads/2021/01/among-us-run-gif.gif
+-->
 
 -----
 ## Estudiante
@@ -7,7 +12,7 @@
 - Programación Web Full Stack
 
 ##  Contacto
-<a href="https://mail.google.com/mail/u/0/#sent?compose=new"> <img src="https://img.shields.io/badge/maximilianoalderete017@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" >  <a  href="https://www.instagram.com/maximiliano.alderete1/"><img src="https://img.shields.io/badge/INSTAGRAM_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://mail.google.com/mail/u/0/#sent?compose=new"> <img src="https://img.shields.io/badge/GMAIL-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" >  <a  href="https://www.instagram.com/maximiliano.alderete1/"><img src="https://img.shields.io/badge/INSTAGRAM_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <!--
 **Maxi-Max10/Maxi-Max10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
