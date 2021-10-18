@@ -7,7 +7,7 @@
 - Programación Web Full Stack
 
 ##  Contacto
-<a href="https://mail.google.com/mail/u/0/#inbox"> <img src="https://img.shields.io/badge/maximilianoalderete017@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" >  <a  href="https://www.instagram.com/maximiliano.alderete1/"><img src="https://img.shields.io/badge/INSTAGRAM_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://mail.google.com/mail/u/0/#sent?compose=new"> <img src="https://img.shields.io/badge/maximilianoalderete017@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" >  <a  href="https://www.instagram.com/maximiliano.alderete1/"><img src="https://img.shields.io/badge/INSTAGRAM_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <!--
 **Maxi-Max10/Maxi-Max10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
