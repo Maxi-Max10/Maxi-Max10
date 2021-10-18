@@ -1,9 +1,10 @@
 
-## Maximiliano Alderete <img src="https://emoji.discord.st/emojis/a8e0e4a2-2fd9-4654-a677-8e0b02999195.gif" width = 25>
+## Maximiliano Alderete <img src="https://emoji.discord.st/emojis/6495bf49-8134-4b23-bd7a-509130c0d7b3.gif" width = 35>
 
 <!--
 <img alt = "GIF" src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 30 />
 https://www.gifcen.com/wp-content/uploads/2021/01/among-us-run-gif.gif
+https://emoji.discord.st/emojis/a8e0e4a2-2fd9-4654-a677-8e0b02999195.gif
 -->
 
 -----
