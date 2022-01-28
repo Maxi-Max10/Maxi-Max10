@@ -13,7 +13,7 @@ https://emoji.discord.st/emojis/a8e0e4a2-2fd9-4654-a677-8e0b02999195.gif
 - Programación Web Full Stack
 
 ##  Contacto
-<a href="https://mail.google.com/mail/u/0/#sent?compose=new"> <img src="https://img.shields.io/badge/GMAIL-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" >  <a  href="https://www.instagram.com/maximiliano.alderete1/"><img src="https://img.shields.io/badge/INSTAGRAM_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+ <a  href="https://www.instagram.com/maximiliano.alderete1/"><img src="https://img.shields.io/badge/INSTAGRAM_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
  <a  href="https://web.whatsapp.com/"><img src="https://img.shields.io/badge/WHATSAPP_-%25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
 
 <!--
