@@ -8,13 +8,14 @@ https://emoji.discord.st/emojis/a8e0e4a2-2fd9-4654-a677-8e0b02999195.gif
 -->
 
 -----
-## Estudiante
+## Estudios
 - Tecnicatura Superior en Desarrollo de Software 
 - Programación Web Full Stack
 
+
 ##  Contacto
  <a  href="https://www.instagram.com/maximiliano.alderete1/"><img src="https://img.shields.io/badge/INSTAGRAM_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
- <a  href=" https://wa.me/542613353956"><img src="https://img.shields.io/badge/WHATSAPP_-%25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
+ <a  href="https://wa.me/542613353956"><img src="https://img.shields.io/badge/WHATSAPP_-%25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
 
 <!--
 **Maxi-Max10/Maxi-Max10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
