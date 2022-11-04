@@ -10,7 +10,7 @@ https://emoji.discord.st/emojis/a8e0e4a2-2fd9-4654-a677-8e0b02999195.gif
 -----
 ## Estudios
 - Tecnicatura Superior en Desarrollo de Software 
-- Programación Web Full Stack
+
 
 
 ##  Contacto
